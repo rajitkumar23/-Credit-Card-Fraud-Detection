@@ -9,4 +9,4 @@ We got the dataset name hiwott-cyber-security-dataset. Our dataset contains 5066
 Inspiration
 Identify fraudulent credit card transactions.
 
-Given the class imbalance ratio. Our project is regarding prevention of fraud, so the basic information that we must optimize the fraud. Therefore, we need a column that can identify how many frauds is happened in our dataset. We use the account no. and the transaction column that will help us to find the fraud in the dataset. From some cases we also realize that there are some fraud happened due to the use of unsecure WIFI and networks.
+Given the class imbalance ratio. Our project is regarding prevention of fraud, so the basic information that we must optimize the fraud. Therefore, we need a column  that can identify how many frauds is happened in our dataset. We use the account no. and the transaction column that will help us to find the fraud in the dataset. From some cases we also realize that there are some fraud happened due to the use of unsecure wifi and networks.
